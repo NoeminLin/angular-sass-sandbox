@@ -1,0 +1,7 @@
+@use '../assets/scss/variable';
+
+
+.color {
+  background-color: variable.$bg-color;
+  color: variable.$primary-color;
+}
